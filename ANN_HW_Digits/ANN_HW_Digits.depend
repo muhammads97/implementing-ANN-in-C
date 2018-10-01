@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1534442175 source:f:\implementing ann\ann_hw_digits\main.cpp
+	<iostream>
+	"InputHandle.h"
+	"network.h"
+
+1534405616 f:\implementing ann\ann_hw_digits\include\inputhandle.h
+	<string>
+	<list>
+	<fstream>
+	<iostream>
+	<sstream>
+	<cstring>
+
+1534440399 source:f:\implementing ann\ann_hw_digits\src\inputhandle.cpp
+	"InputHandle.h"
+
+1534425624 f:\implementing ann\ann_hw_digits\include\network.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<fcntl.h>
+	<fstream>
+	<iostream>
+	"InputHandle.h"
+
+1534442108 source:f:\implementing ann\ann_hw_digits\src\network.cpp
+	"network.h"
+
